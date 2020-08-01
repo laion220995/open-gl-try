@@ -1,0 +1,2 @@
+C:\Users\vbykov\code\cpp\open-gl-try\x64\Debug\open-gl-try.exe
+C:\Users\vbykov\code\cpp\open-gl-try\x64\Debug\open-gl-try.pdb
